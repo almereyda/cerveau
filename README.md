@@ -1,6 +1,6 @@
 # cerveau d'yalamerde
 
-Published to [almereyda.github.io/cerveau](https://almereyda.github.io/cerveau/).
+Published to [y.chn.io/cerveau](http://y.chn.io/cerveau/).
 
 Den Quelltext gibt es in direkt in [github.com/almereyda/cerveau](https://github.com/almereyda/cerveau/).
 
