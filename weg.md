@@ -13,7 +13,7 @@ Das wird sich mit der Zeit zeigen.
 
 Derer Wege sind viele. Und wo sie sich kreuzen, finden wir Verknüpfungen in verschiedene Richtungen. Welche können wir von hier beschreiten?
 
-- Unregelmäßige Zwischenstimmen lesen wir im [[Blog]]#.
+- Unregelmäßige Zwischenstimmen lesen wir im [[blog]]#.
 - Welche wiederkehrenden Themen sich finden lassen, erfahren wir im [[Rundgang]]#.
 - Über andere Schreiborte lernen wir [[andernorts]]#.
 
