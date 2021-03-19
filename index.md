@@ -4,4 +4,4 @@ Alles hat einen Anfang.
 
 Und ein Ende.
 
-Finden wir den [[Weg]] dazwischen.
+Finden wir den [[weg]] dazwischen.
