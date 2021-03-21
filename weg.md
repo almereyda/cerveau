@@ -15,7 +15,7 @@ Derer Wege sind viele. Und wo sie sich kreuzen, finden wir Verknüpfungen in ver
 
 - Unregelmäßige Zwischenstimmen lesen wir im [[blog]]#.
 - Welche wiederkehrenden Themen sich finden lassen, erfahren wir im [[Rundgang]]#.
-- Über andere Schreiborte lernen wir [[andernorts]]#.
+- Über andere Schreiborte lernen wir ebenda, [[andernorts]]#.
 
 ---
 
